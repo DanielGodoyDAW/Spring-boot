@@ -101,5 +101,6 @@ Notas para desarrolladores
   - Implementar completamente `ServicioSnacksArchivos.mostrarSnack()` y `getSnacks()` para que la versión de archivos funcione como la de lista.
   - Añadir pruebas unitarias (JUnit) para validar operaciones de archivo y lógica de venta.
   - Agregar un `build.gradle` o `pom.xml` si se desea automatizar compilación/ejecución.
+  
 
 
